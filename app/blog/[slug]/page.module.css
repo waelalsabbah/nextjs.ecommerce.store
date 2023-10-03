@@ -1,0 +1,22 @@
+.header {
+}
+.info {
+}
+.title {
+}
+.description {
+}
+.imageContainer {
+  position: relative;
+  height: 300;
+  margin-top: 25px;
+}
+.image {
+  object-fit: cover;
+}
+.postImage {
+}
+.content {
+}
+.text {
+}
